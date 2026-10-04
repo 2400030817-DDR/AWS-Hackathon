@@ -1,4 +1,6 @@
-# AWS EC2 Backup and Recovery Using Amazon S3
+# AWS-Hackathon
+
+## AWS EC2 Backup and Recovery Using Amazon S3
 
 A beginner-friendly Flask application that demonstrates backing up files explicitly selected and uploaded through a web dashboard, then restoring them by downloading a copy. It can store files in Amazon S3 with Boto3 or use a local simulation when AWS is not configured.
 
